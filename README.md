@@ -24,6 +24,7 @@ Table of contents:
 - [Community, discussion, contribution, and support](#community-discussion-contribution-and-support)
 
 
+
 ## Features Overview
 
 The AKS Karpenter Provider enables node autoprovisioning using [Karpenter](https://karpenter.sh/) on your AKS cluster.
